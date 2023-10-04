@@ -10,5 +10,5 @@ Install all the dependencies using
 Now you can run the project using 
   "node index.js"
 
-All pushed the postman collection for simplifying the api calls and testing.
-  Infeedo.postman_collection.json
+All pushed the postman collection for simplifying the api calls and testing:
+  "Infeedo.postman_collection.json"
