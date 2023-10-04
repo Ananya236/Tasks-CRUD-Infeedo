@@ -10,7 +10,6 @@ const TaskStatusEnum = {
 const Task = sequelize.define(
   "Task",
   {
-    // Define model attributes
     id: {
       type: DataTypes.INTEGER,
       primaryKey: true,
