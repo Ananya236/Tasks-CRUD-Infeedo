@@ -1,5 +1,4 @@
 import express, {json} from "express";
-// import { json } from "body-parser";
 import sequelize from "./config/mysqldb.js";
 import Task from "./routes/tasks.js";
 
